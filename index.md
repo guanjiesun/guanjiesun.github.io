@@ -1,8 +1,6 @@
 ---
 title: Homepage
 layout: default
-seo:
-    title: Homepage
 ---
 
 ## Technology for web development
