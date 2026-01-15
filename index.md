@@ -1,9 +1,7 @@
 ---
-title: Home
+title: Homepage
 layout: default
 ---
-
-# HELLO, WELCOME TO MY HOMEPAGE
 
 ## Technology for web development
 
