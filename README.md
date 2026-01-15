@@ -1,4 +1,4 @@
 - index.html is the Homepage of personal website
 - _config.yml is the config file to add a Jekyll theme
-- imgages folder is to store the favicon picture
+- images folder is to store the favicon picture
 - CNAME file stores the domain name which points to this github pages repo
